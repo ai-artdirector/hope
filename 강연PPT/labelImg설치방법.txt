@@ -1,0 +1,11 @@
+### labelImg 설치방법
+
+1. anaconda 설치  --> anaconda/ 필수 유틸(tensorflow, numpy, pip) 설치방법 정리
+
+1-1. how to install pip : python -m pip install --upgrade pip
+
+2. pip3 install labelImg  / anaconda prompt
+
+3. labelImg / anaconda prompt
+
+4. Open Dir, Change Save Dir 설정 / anaconda prompt
